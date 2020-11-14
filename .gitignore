@@ -8,3 +8,7 @@ deps
 review
 _build
 rebar.lock
+
+
+.idea/
+*.iml

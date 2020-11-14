@@ -12,19 +12,11 @@ SAMPLE application consist of two page modules `login` and `index`.
 It creates WebSocket connection to `n2o` server.
 The permanent example is accesible at <a href="https://sample.n2o.dev/index.htm">https://sample.n2o.dev/index.htm</a>.
 
-Index
------
-
-Init event.
-Chat event.
-Client event.
-File Transfer event.
-
-Login
+Test
 -----
 
 Channel init.
-Login event.
+test event.
 
 Setup
 -----
@@ -40,7 +32,7 @@ $ mad dep com pla rep
 Then open it in browser:
 
 ```
-$ open http://localhost:8001/app/login.htm
+$ open http://localhost:8001/app/test.html
 ```
 
 Credits
